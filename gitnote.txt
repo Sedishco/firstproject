@@ -52,7 +52,6 @@ local repolardaki yapılan değişiklikleri push öncesi staging areya gönderme
 veya
 # git add "filename"    > commit etmek istediğin file veya değişiklikleri push etmeden önce add ile stagin areaya yani localdeki hazır haldeki kuyruğa alma işlemi
 
-
 enter sonrası son durumu sana gösterecektir yeşi,l klasörlere dikkat edelim ....
 
 
